@@ -1,3 +1,4 @@
+### Pull csvserver and prometeheus container and add metrics for csvserver
 docker-compose -f compose.yml up -d
 
 ------------------
